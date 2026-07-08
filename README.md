@@ -27,7 +27,6 @@ Image-Classification/
 │   └── test_image.jpg
 │
 ├── predict.py
-├── output.png
 └── README.md
 ```
 
