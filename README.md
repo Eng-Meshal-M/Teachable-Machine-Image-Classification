@@ -17,7 +17,7 @@ This project demonstrates how to build a simple image classification model using
 ## 📂 Project Structure
 
 ```text
-Image-Classification/
+Teachable-Machine-Image-Classification/
 │
 ├── model/
 │   ├── keras_model.h5
