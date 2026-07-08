@@ -8,7 +8,9 @@
 
 This project demonstrates how to build a simple image classification model using **Google Teachable Machine**. The model is trained using multiple image classes, exported in **TensorFlow (Keras)** format, and integrated into a Python script to classify new input images.
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 8, 2026, 10_52_07 AM" src="https://github.com/user-attachments/assets/c13a2042-6210-45e4-936b-8e38688e9931" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c13a2042-6210-45e4-936b-8e38688e9931" width="85%" />
+</p>
 
 ---
 
@@ -37,7 +39,9 @@ Open **Google Teachable Machine** and create a new **Image Project** using the *
 
 This project type allows you to train an image classification model without writing the training code manually.
 
-<img width="1027" height="712" alt="Screenshot 2026-07-08 105805" src="https://github.com/user-attachments/assets/d90e4d56-c195-4c2e-a089-85341cd32df9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d90e4d56-c195-4c2e-a089-85341cd32df9" width="85%" />
+</p>
 
 ---
 
@@ -53,7 +57,9 @@ Example:
 - Class 2
 - Class 3 *(Optional)*
 
-<img width="1025" height="604" alt="Screenshot 2026-07-08 105937" src="https://github.com/user-attachments/assets/c6a51738-2652-408a-9fab-5dd00fd1f4bc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6a51738-2652-408a-9fab-5dd00fd1f4bc" width="85%" />
+</p>
 
 ---
 
@@ -65,7 +71,9 @@ The quality and variety of the training images have a direct impact on the predi
 
 After uploading all images, verify that every class contains the correct dataset before training.
 
-<img width="1043" height="598" alt="Screenshot 2026-07-08 110724" src="https://github.com/user-attachments/assets/c857c90d-15c6-4878-bc76-2d43eb7f0161" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c857c90d-15c6-4878-bc76-2d43eb7f0161" width="85%" />
+</p>
 
 ---
 
@@ -75,7 +83,9 @@ Click **Train Model** and wait until the training process is completed.
 
 Once the model is trained, test it using different images directly inside Teachable Machine to verify that it correctly recognizes each class.
 
-<img width="1033" height="696" alt="Screenshot 2026-07-08 110941" src="https://github.com/user-attachments/assets/a1c20519-c37f-46c6-9178-6a8097537590" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1c20519-c37f-46c6-9178-6a8097537590" width="85%" />
+</p>
 
 ---
 
@@ -98,7 +108,9 @@ Then, open the **Code** tab in the export window and copy the generated Python c
 
 This code will be pasted into your **Google Colab** notebook and modified in the next step to work with the exported model.
 
-<img width="997" height="665" alt="Screenshot 2026-07-08 111011" src="https://github.com/user-attachments/assets/613c710e-3b7a-4f0f-af61-cf04660f8989" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/613c710e-3b7a-4f0f-af61-cf04660f8989" width="85%" />
+</p>
 
 ---
 
@@ -114,7 +126,9 @@ Upload the exported model files and the test image:
 
 After uploading the files, the notebook is ready for the next step.
 
-<img width="1092" height="1090" alt="Screenshot 2026-07-08 113609" src="https://github.com/user-attachments/assets/83bc95b3-1479-42cb-bfd1-e699c67eec3b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83bc95b3-1479-42cb-bfd1-e699c67eec3b" width="85%" />
+</p>
 
 ---
 
@@ -184,9 +198,10 @@ The trained model was evaluated using images that were **not included during tra
 
 The prediction confidence remained consistently high across the testing images, indicating that the model successfully learned the visual differences between the classes.
 
-<img width="1016" height="676" alt="Screenshot 2026-07-08 114129" src="https://github.com/user-attachments/assets/30bb773b-1d14-4c77-b82e-bea6853a4559" />
-
-<img width="1015" height="674" alt="Screenshot 2026-07-08 114244" src="https://github.com/user-attachments/assets/86d54dbb-a593-40ee-ba0e-f3097b1fbda5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30bb773b-1d14-4c77-b82e-bea6853a4559" width="46%" />
+  <img src="https://github.com/user-attachments/assets/86d54dbb-a593-40ee-ba0e-f3097b1fbda5" width="46%" />
+</p>
 
 ---
 
