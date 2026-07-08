@@ -1,4 +1,4 @@
-# 🖼️ Image Classification using Google Teachable Machine & TensorFlow
+# 🖼️ Image Classification with Google Teachable Machine
 
 > **Developed by:** Meshal Talal Al Mehmady
 
